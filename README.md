@@ -19,4 +19,5 @@ Analysis of Hemileia vastatrix, coffee leaf rust, in shaded coffee systems. An i
 - R, ggplot2, dplyr
 
 ## Author
-Breanna Flores  
+**Breanna Flores**  
+Environmental Researcher | UC Santa Barbara  
